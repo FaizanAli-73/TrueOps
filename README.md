@@ -6,6 +6,9 @@ TrueOps replaces the scattered texts, paper notes and memory that most trades bu
 
 Built for Craftaire, a Chicago home services company (HVAC, flooring, electrical, remodeling, carpentry).
 
+![TrueOps business dashboard (sample data)](docs/dashboard.jpg)
+*The business dashboard, shown with fictional sample data.*
+
 ---
 
 ## What it does
